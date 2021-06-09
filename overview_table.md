@@ -6,7 +6,7 @@
 | Сафонов Иван | human | A549 | ZDNA_DeepZ | ENCFF444EWQ | 60672 | 60384 | ENCFF811QUJ | 42936 | 42724 | 19394 | 522 |
 | Дудковская Анастасия | human | SK-N-SH | ZDNA_DeepZ | ENCFF051ZKJ | 33067 | 33065 | ENCFF231PXT | 9286 | 9286 | 19394  | 243 |
 | Аюпов Шамиль | human | HCT116 | ZDNA_DeepZ | ENCFF832IOO | 113589 | 113276 | ENCFF158YTR | 62715 | 62388 | 19394 | 384 |
-| Соколовский Алексей | human | A549 | ZDNA_DeepZ | ENCFF751KCL | ? | ? | ENCFF283ZMN | ? | ? | 19394 | ? |
+| Соколовский Алексей | human | A549 | ZDNA_DeepZ | ENCFF836GHH | 55594 | 34218 | ENCFF283ZMN | 67493 | 45326 | 19394 | 226 |
 | Григорьев Пётр | human | SJSA1 | ZDNA_DeepZ | ENCFF921OTR | 41770 | 36813 | ENCFF157SWY | 36888 | 31989 | 19394 | 881 |
 | Карташев Николай | human | H9 | ZDNA_DeepZ | ENCFF296PQE | 40403 | 39880 | ENCFF724VHG | 51357 | 51342 | 19394 | 511 |
 | Мячин Данил | human | K562 | ZDNA_DeepZ | ENCFF963GZJ | 25411 | 25126 | ENCFF567HEH | 23889 | 23725 | 19394 | 369 |
