@@ -2,7 +2,7 @@
 |--|--|--|--|--|--|--|--|--|--|--|--|
 | Круглов Павел | human | MCF-7 | ZDNA_DeepZ | ENCFF501UHK | 40249 | 40166 | ENCFF518MOR | 39216 | 39189 | 19394 | 528 | 
 | Миронов Алексей | mouse | MEL | ZDNA_mouse_1 | ENCFF725BPX | 568 | 554 | ENCFF175TIH | 481 | 475 | 3258 | 3 |
-| Стрельцов Артём | human | H1 | ZDNA_DeepZ | ENCFF678VNN | 69340 | 69129 | ENCFF918VFL | 87042 | 86674 | 19394 | ? |
+| Стрельцов Артём | human | H1 | ZDNA_DeepZ | ENCFF678VNN | 69340 | 69129 | ENCFF918VFL | 87042 | 86674 | 19394 | 1051 |
 | Сафонов Иван | human | A549 | ZDNA_DeepZ | ENCFF444EWQ | 60672 | 60384 | ENCFF811QUJ | 42936 | 42724 | 19394 | 522 |
 | Дудковская Анастасия | human | SK-N-SH | ZDNA_DeepZ | ENCFF051ZKJ | 33067 | 33065 | ENCFF231PXT | 9286 | 9286 | 19394  | 243 |
 | Аюпов Шамиль | human | HCT116 | ZDNA_DeepZ | ENCFF832IOO | 113589 | 113276 | ENCFF158YTR | 62715 | 62388 | 19394 | 384 |
