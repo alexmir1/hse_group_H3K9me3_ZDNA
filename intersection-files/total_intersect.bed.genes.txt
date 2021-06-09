@@ -1,0 +1,4 @@
+seqnames	start	end	width	strand	peak	feature	feature.ranges.start	feature.ranges.end	feature.ranges.width	feature.strand	distance	insideFeature	distanceToSite	symbol
+chr1	18081801	18081908	108	*	X01	81569	18081808	18153558	71751	+	0	overlapStart	0	ACTL8
+chr5	179499462	179499515	54	*	X17	55819	179382474	179499109	116636	-	352	upstream	352	RNF130
+chr21	39601218	39601330	113	*	X48	3772	39601837	39673746	71910	+	506	upstream	506	KCNJ15
