@@ -84,3 +84,7 @@
 
 С текстовым результатом можно ознакомиться в файле [go_analysis/pantherdb_GO_analysis.txt](./go_analysis/pantherdb_GO_analysis.txt).
 
+---
+
+С презентацией проекта можно ознакомиться в файле [hse_group_H3K9me3_ZDNA.pdf](./hse_group_H3K9me3_ZDNA.pdf)
+
